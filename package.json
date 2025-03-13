@@ -1,0 +1,16 @@
+
+    "name": "ip-logger",
+    "version": "1.0.0",
+    "description": "Creators By 1zzy x /Nix",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "axios": "^0.21.4",
+        "dotenv": "^8.6.0",
+        "express": "^4.21.2"
+    },
+    "author": "",
+    "license": "ISC"
+}
